@@ -4,8 +4,8 @@
 
 ## Links
 
-- [Demo](https://profcase.github.io/js-gui/)
-- [Source](https://github.com/profcase/js-gui)
+- [Demo](https://github.com/Meghnareddykunta/js-gui)
+- [Source](https://github.com/Meghnareddykunta/js-gui)
 
 ## Requirements
 
@@ -29,7 +29,7 @@
 ## See Also
 
 - [js-console](https://github.com/profcase/js-console)
-- [js-gui](https://github.com/profcase/js-gui)
+- [js-gui](https://github.com/Meghnareddykunta/js-gui)
 - [js-gui-storage](https://github.com/profcase/js-gui-storage)
 - [js-gui-vue](https://github.com/denisecase/js-gui-vue)
 - [js-node](https://github.com/denisecase/js-node)
